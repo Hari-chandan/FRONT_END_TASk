@@ -1,0 +1,19 @@
+.center{
+    position:absolute;
+    height: X px;
+    width: Y px;
+    left:46%;
+    top:47%;
+    margin-top:- X/2 px;
+    margin-left:- Y/2 px;
+}
+footer {
+            width: 100%;
+            bottom: 0px;
+            position: absolute;
+            padding-top: 20px;
+            padding-bottom: 50px;
+            text-align: center;
+            font-size: 30px;
+            font-weight: bold;
+        }
