@@ -30,22 +30,22 @@
   margin-bottom: 25px;
 }
 .opt1 {
-  text-align: left;
   padding-left: 20px;
+  text-align: left;
 }
 .opt2 {
-  padding-left: 26%;
   padding-top: 25px;
+  padding-left: 26%;
 }
 .opt3 {
   text-align: left;
 }
-#hl1 {
+#row1 {
   height: 1.5px;
   background-color:black;
   margin-bottom: 13px;
 }
-.hl2,.hl3,.hl4 {
+.row2,.row3,.row4 {
   height: 1.5px;
   background-color: #b2beb5;
   margin-bottom: 13px;
@@ -56,10 +56,10 @@
   grid-template-columns: 13% 87%;
   grid-column-gap: 5px;
 }
-.pic {
+.img {
   padding-left: 20px;
 }
-.bu {
+.but {
   background-color: orangered;
   color: white;
   height: 25px;
